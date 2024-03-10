@@ -13,7 +13,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m pursuing Bachelor of Technology from IIT Dhanbad and contributing to frontend and backend for building web applications.
+- 🔭 I’m pursuing Bachelor of Technology from IIT Dhanbad and contributing to frontend and backend for building Web applications.
 -    Exploring Blockchain and Web3
 - 🌱 Exploring Technical Content Writing.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-dipayan-debnath-50655b24a-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/dipayan-debnath-50655b24a/))
