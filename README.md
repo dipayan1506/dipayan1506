@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
   <p>
-<img src="https://skillicons.dev/icons?i=ts,solidity,rust,cpp,bash,js,html,css,tailwind,bootstrap,postgres,mui,react,nextjs,nodejs,express,ipfs,mongodb,graphql,prisma,git,vscode,gcp,postman,linux,ubuntu,htmx,github"/>
+<img src="https://skillicons.dev/icons?i=ts,solidity,rust,cpp,bash,js,html,css,tailwind,bootstrap,postgres,mui,react,nextjs,nodejs,express,ipfs,mongodb,graphql,prisma,git,vscode,postman,linux,ubuntu,htmx,github"/>
 </p>
 </p>
 
